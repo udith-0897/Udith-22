@@ -1,0 +1,9 @@
+Here are the required libraries for the applictaion needed for installation:
+pip install streamlit
+pip install streamlit pylint
+
+And some softwares to install to run in vscode:
+Java runtime environment (microsoft)
+c/c++ (microsoft)
+python (microsoft)
+pylint
